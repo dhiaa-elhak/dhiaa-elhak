@@ -1,16 +1,42 @@
-## Hi there 👋
+# 💼 Compétences techniques – Diaa El Hak
 
-<!--
-**dhiaa-elhak/dhiaa-elhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖥️ Technologies et Outils maîtrisés :
 
-Here are some ideas to get you started:
+### 🧠 Gestion d’état (State Management)
+- ✅ BLoC
+- ✅ Riverpod
+- ✅ Provider
+- ✅ GetX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 Authentification
+- Auth classique avec API (login/register)
+- Auth Firebase
+- Auth via JWT
+- Réinitialisation du mot de passe
+
+### 🔗 API
+- Intégration avec REST API
+- Traitement des requêtes HTTP (GET, POST, PUT, DELETE)
+- Utilisation d’`http`, `dio`...
+
+### 📦 Stockage local
+- `shared_preferences`
+- Intégration des préférences utilisateurs
+
+### 🎨 UI/UX
+- Conception d’interfaces mobiles responsives avec Flutter
+- Navigation complexe (nested navigation)
+- Thèmes sombres et clairs
+- Animations simples avec `flutter_animate`, `Hero`, `PageTransition`
+
+### 🔧 Environnements et outils
+- Flutter / Dart
+- Android Studio / VS Code
+- Git / GitHub
+- Firebase (Auth, Firestore, Storage)
+- MySQL, SQLite
+- Laravel pour les APIs
+
+---
+
+💬 Je suis toujours en apprentissage continu et à la recherche de nouveaux défis.
